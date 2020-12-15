@@ -12,8 +12,9 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2020 Nov 4   | Restaurant Landing Page Pt 1                                            | Completed |
 | 2020 Nov 11  | Restaurant Landing Page Pt 2 + [CTF](https://ctf1.davidli3100.repl.co/) | Completed |
 | 2020 Nov 18  | Restaurant Landing Page Pt 3                                            | Completed |
-| 2020 Nov 25  | Devtools Tutorial                                                       | Planned   |
-| 2020 Dec 2   | Fraser Graduates Panel                                                  | Planned   |
+| 2020 Nov 25  | Devtools Tutorial                                                       | Completed |
+| 2020 Dec 2   | Fraser Graduates Panel                                                  | Completed |
+| 2020 Dec 9   | Introduction to Git and GitHub                                          | Completed |
 | Undetermined | Intro to Competitive Programming                                        | Planned   |
 | Undetermined | Mock CCC                                                                | Planned   |
 | Undetermined | Mini Hackathon                                                          | Planned   |
