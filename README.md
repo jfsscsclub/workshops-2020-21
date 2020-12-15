@@ -15,7 +15,8 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2020 Nov 25  | Devtools Tutorial                                                       | Completed |
 | 2020 Dec 2   | Fraser Graduates Panel                                                  | Completed |
 | 2020 Dec 9   | Introduction to Git and GitHub                                          | Completed |
-| Undetermined | Intro to Competitive Programming                                        | Planned   |
+| 2020 Dec 16  | CTF                                                                     | Planned   |
+| 2021 Jan 6   | Intro to Competitive Programming                                        | Planned   |
 | Undetermined | Mock CCC                                                                | Planned   |
 | Undetermined | Mini Hackathon                                                          | Planned   |
 | Undetermined | Fraser Hacks 2021                                                       | Planned   |
