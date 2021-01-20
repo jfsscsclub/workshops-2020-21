@@ -17,7 +17,9 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2020 Dec 9   | Introduction to Git and GitHub                                          | Completed |
 | 2020 Dec 16  | CTF                                                                     | Completed |
 | 2021 Jan 6   | Intro to Competitive Programming                                        | Completed |
-| 2021 Jan 13  | Intro to Competitive Programming                                        | Planned   |
+| 2021 Jan 13  | Intro to Competitive Programming                                        | Completed |
+| 2021 Jan 20  | Intro to Competitive Programming                                        | Completed |
+| 2021 Jan 27  | Intro to Competitive Programming                                        | Planned   |
 | Undetermined | Mock CCC                                                                | Planned   |
 | Undetermined | Mini Hackathon                                                          | Planned   |
 | Undetermined | Fraser Hacks 2021                                                       | Planned   |
