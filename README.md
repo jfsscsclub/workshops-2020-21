@@ -20,7 +20,7 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2021 Jan 13  | Intro to Competitive Programming 2                                      | Completed |
 | 2021 Jan 20  | Intro to Competitive Programming 3                                      | Completed |
 | 2021 Jan 27  | Intro to Competitive Programming 4                                      | Completed |
-| 2021 Feb 3   | Intro to Competitive Programming 5                                      | Completed |
+| 2021 Feb 3   | Intro to Competitive Programming 5                                      | Planned   |
 | Undetermined | Mock CCC                                                                | Planned   |
 | Undetermined | Mini Hackathon                                                          | Planned   |
 | Undetermined | Fraser Hacks 2021                                                       | Planned   |
