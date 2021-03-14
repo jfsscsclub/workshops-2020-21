@@ -24,6 +24,8 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2021 Feb 10  | Intro to Competitive Programming 6                                      | Completed |
 | 2021 Feb 17  | No meeting (CCC)                                                        | Completed |
 | 2021 Feb 24  | CCC Solution Take-up                                                    | Completed |
-| 2021 Mar 3   | Intro to AI with Tensorflow.py                                          | Planned   |
+| 2021 Mar 3   | Intro to AI with Tensorflow.py 1                                        | Completed |
+| 2021 Mar 10  | Intro to AI with Tensorflow.py 2                                        | Completed |
+| 2021 Mar 17  | Intro to AI with Tensorflow.py 3                                        | Planned   |
 | Undetermined | Mini Hackathon                                                          | Planned   |
 | Undetermined | Fraser Hacks 2021                                                       | Planned   |
