@@ -26,6 +26,10 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2021 Feb 24  | CCC Solution Take-up                                                    | Completed |
 | 2021 Mar 3   | Intro to AI with Tensorflow.py 1                                        | Completed |
 | 2021 Mar 10  | Intro to AI with Tensorflow.py 2                                        | Completed |
-| 2021 Mar 17  | Intro to AI with Tensorflow.py 3                                        | Planned   |
+| 2021 Mar 17  | Intro to AI with Tensorflow.py 3                                        | Completed |
+| 2021 Mar 24  | Intro to AI with Tensorflow.py 4                                        | Completed |
+| 2021 Mar 31  | Intro to AI with Tensorflow.py 5                                        | Planned   |
+| 2021 Apr 7   | Intro to AI with Tensorflow.py 6                                        | Planned   |
+| 2021 Apr 14  | Q&A with Co-Founder of Snapcommerce Henry Shi                           | Planned   |
 | Undetermined | Mini Hackathon                                                          | Planned   |
 | Undetermined | Fraser Hacks 2021                                                       | Planned   |
