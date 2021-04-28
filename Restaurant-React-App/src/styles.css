@@ -1,0 +1,119 @@
+html {
+    font-family: "Montserrat";
+    font-size: 14px;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 32px;
+    padding-right: 8px;
+    height: 64px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+}
+
+.logo {
+    font-weight: 800;
+    font-size: 18px;
+    color: orange;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.menu p {
+    margin-right: 24px;
+}
+
+.menu p a {
+    text-decoration: none;
+    color: grey;
+    display: inline-block;
+}
+
+.order-button {
+    padding: 8px 24px;
+    border-radius: 18px;
+    background-color: black;
+    color: orange !important;
+}
+
+.banner {
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    padding-left: 32px;
+}
+
+.banner .content {
+    min-width: 270px;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.banner img {
+    width: 43vw;
+    object-fit: cover;
+    clip-path: polygon(13% 0, 100% 0%, 100% 100%, 0% 100%);
+}
+
+.banner h1 {
+    font-size: 32px;
+}
+
+.call-to-action {
+    font-weight: 700;
+}
+
+.call-to-action:hover > i {
+    transform: translateX(6px);
+}
+
+.call-to-action i {
+    transition: transform 150ms ease-in-out;
+    color: orange;
+    font-size: 18px;
+    margin-left: 8px;
+}
+
+.sign-up {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f39627;
+    padding: 100px;
+}
+
+.sign-up form {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    justify-content: space-evenly;
+}
+
+.sign-up input {
+    padding: 8px 20px;
+    width: 300px;
+    height: 40px;
+    font-size: 18px;
+    border: none;
+    border-radius: 12px;
+}
+
+.sign-up label {
+    font-size: 16px;
+    font-weight: 600;
+}
