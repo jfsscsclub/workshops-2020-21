@@ -28,8 +28,11 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2021 Mar 10  | Intro to AI with Tensorflow.py 2                                        | Completed |
 | 2021 Mar 17  | Intro to AI with Tensorflow.py 3                                        | Completed |
 | 2021 Mar 24  | Intro to AI with Tensorflow.py 4                                        | Completed |
-| 2021 Mar 31  | Intro to AI with Tensorflow.py 5                                        | Planned   |
-| 2021 Apr 7   | Intro to AI with Tensorflow.py 6                                        | Planned   |
-| 2021 Apr 14  | Q&A with Co-Founder of Snapcommerce Henry Shi                           | Planned   |
+| 2021 Mar 31  | Intro to AI with Tensorflow.py 5                                        | Completed |
+| 2021 Apr 7   | Intro to AI with Tensorflow.py 6                                        | Completed |
+| 2021 Apr 14  | Q&A with Co-Founder of Snapcommerce Henry Shi                           | Completed |
+| 2021 Apr 21  | Intro to React                                                          | Completed |
+| 2021 Apr 28  | Intro to React 2                                                        | Completed |
+| 2021 May 5   | Intro to React 3                                                        | Planned   |
 | Undetermined | Mini Hackathon                                                          | Planned   |
-| Undetermined | Fraser Hacks 2021                                                       | Planned   |
+| Undetermined | Fraser Hacks 2021                                                       | Canceled  |
