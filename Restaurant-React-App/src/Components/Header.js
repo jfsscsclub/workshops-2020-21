@@ -1,19 +1,23 @@
+import { Link } from "react-router-dom";
+
 const Header = ({ menuItems, logo }) => {
     return (
         <header>
-            <div class="logo">{logo}</div>
+            <Link to="/">
+                <div class="logo">{logo}</div>
+            </Link>
             <nav>
                 <div class="menu">
                     {menuItems.map((menuItem) => (
                         <p>
-                            <a
+                            <Link
                                 class={
                                     menuItem.type === "button" && "order-button"
                                 }
-                                href={menuItem.link}
+                                to={menuItem.link}
                             >
                                 {menuItem.name}
-                            </a>
+                            </Link>
                         </p>
                     ))}
                 </div>

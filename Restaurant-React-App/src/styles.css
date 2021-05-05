@@ -111,9 +111,19 @@ header {
     font-size: 18px;
     border: none;
     border-radius: 12px;
+    outline: none;
 }
 
 .sign-up label {
     font-size: 16px;
+    font-weight: 600;
+}
+
+.sign-up button {
+    height: 56px;
+    border: none;
+    border-radius: 12px;
+    background-color: black;
+    color: orange;
     font-weight: 600;
 }

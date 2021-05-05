@@ -32,7 +32,7 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2021 Apr 7   | Intro to AI with Tensorflow.py 6                                        | Completed |
 | 2021 Apr 14  | Q&A with Co-Founder of Snapcommerce Henry Shi                           | Completed |
 | 2021 Apr 21  | Intro to React                                                          | Completed |
-| 2021 Apr 28  | Intro to React 2                                                        | Completed |
-| 2021 May 5   | Intro to React 3                                                        | Planned   |
+| 2021 Apr 28  | Intro to React 2 (State)                                                | Completed |
+| 2021 May 5   | Intro to React 3 (Routing)                                              | Completed |
 | Undetermined | Mini Hackathon                                                          | Planned   |
 | Undetermined | Fraser Hacks 2021                                                       | Canceled  |

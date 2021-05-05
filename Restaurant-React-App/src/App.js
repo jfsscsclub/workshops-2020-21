@@ -17,7 +17,7 @@ const menuItems = [
     },
     {
         name: "About",
-        link: "/",
+        link: "/about",
         type: "link",
     },
     {
@@ -27,12 +27,11 @@ const menuItems = [
     },
 ];
 
-export default function App() {
+export default function App({ children }) {
     return (
         <div className="App">
             <Header menuItems={menuItems} logo="Restaurant Title" />
-            <Banner />
-            <Signup />
+            {children}
         </div>
     );
 }
