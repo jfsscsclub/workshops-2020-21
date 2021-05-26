@@ -4,19 +4,22 @@
       "name": "About",
       "path": "/about",
       "heading": "About Us",
-      "body": "We are the premiere restaurant in the city of FooBar!"
+      "body": "We are the premiere restaurant in the city of FooBar!",
+      "type": "link"
     },
     {
       "name": "Special Offers",
       "path": "/offers",
       "heading": "Current Special Offers",
-      "body": "Sorry, there are currently no offers available! Please check back later!"
+      "body": "Sorry, there are currently no offers available! Please check back later!",
+      "type": "link"
     },
     {
       "name": "Menu",
       "path": "/menu",
       "heading": "Menu",
       "body": "Check out our fine menu!",
+      "type": "button",
       "items": [
         {
           "name": "Pepperoni Pizza",
