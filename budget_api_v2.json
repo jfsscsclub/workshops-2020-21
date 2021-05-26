@@ -2,16 +2,19 @@
   "pages": [
     {
       "name": "About",
+      "path": "/about",
       "heading": "About Us",
       "body": "We are the premiere restaurant in the city of FooBar!"
     },
     {
       "name": "Special Offers",
+      "path": "/offers",
       "heading": "Current Special Offers",
       "body": "Sorry, there are currently no offers available! Please check back later!"
     },
     {
       "name": "Menu",
+      "path": "/menu",
       "heading": "Menu",
       "body": "Check out our fine menu!",
       "items": [
