@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-const Header = ({ menuItems, logo }) => {
+const Header = ({ pages, logo }) => {
     return (
         <header>
             <Link to="/">
@@ -8,15 +8,13 @@ const Header = ({ menuItems, logo }) => {
             </Link>
             <nav>
                 <div class="menu">
-                    {menuItems.map((menuItem) => (
+                    {pages.map((page) => (
                         <p>
                             <Link
-                                class={
-                                    menuItem.type === "button" && "order-button"
-                                }
-                                to={menuItem.link}
+                                class={page.type === "button" && "order-button"}
+                                to={page.path}
                             >
-                                {menuItem.name}
+                                {page.name}
                             </Link>
                         </p>
                     ))}

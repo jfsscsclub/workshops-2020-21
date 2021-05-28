@@ -27,10 +27,10 @@ const menuItems = [
     },
 ];
 
-export default function App({ children }) {
+export default function App({ children, pages }) {
     return (
         <div className="App">
-            <Header menuItems={menuItems} logo="Restaurant Title" />
+            <Header pages={pages} logo="Restaurant Title" />
             {children}
         </div>
     );

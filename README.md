@@ -34,5 +34,8 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2021 Apr 21  | Intro to React                                                          | Completed |
 | 2021 Apr 28  | Intro to React 2 (State)                                                | Completed |
 | 2021 May 5   | Intro to React 3 (Routing)                                              | Completed |
+| 2021 May 12  | Skipped                                                                 | Completed |
+| 2021 May 19  | Intro to React 4 (API)                                                  | Completed |
+| 2021 May 26  | Intro to React 5 (API)                                                  | Completed |
 | Undetermined | Mini Hackathon                                                          | Planned   |
 | Undetermined | Fraser Hacks 2021                                                       | Canceled  |
