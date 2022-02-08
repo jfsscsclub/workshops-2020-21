@@ -1,5 +1,7 @@
-# Workshops
+# Archival Notice
+This repo contains information regarding the workshop content for the 2020-2021 year. It has not been updated to include the workshops covered in the 2021-2022 year.
 
+# Workshops
 Collection of code from all workshops done in CS Club. If you're familiar with Git, you can clone the repo and view the code locally and play around with it.
 
 As always, if you have any questions, comments, or concerns leave a comment in the Google Classroom or send us an email!
